@@ -61,7 +61,7 @@ CodeAlpha_CreditScoring/
 ├── credit_scoring.ipynb   # full analysis, cleaning, models and results
 ├── README.md
 ├── requirements.txt
-├── model.joblib           # saved Random Forest
+├── randomforestmodel.joblib           # saved Random Forest
 └── data/                  # place cs-training.csv here
 ```
 
